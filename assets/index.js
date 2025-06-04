@@ -1,0 +1,1 @@
+console.log('Simulated Vite build output.');
